@@ -9,7 +9,7 @@ body{
 body{
    background:black;
 }
-#carro{
+#cabecera #carro{
     align-items:center;
 img{
    padding: 1em;
