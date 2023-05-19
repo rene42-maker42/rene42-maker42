@@ -11,6 +11,7 @@ body{
 }
 #cabecera #carro{
     align-items:center;
+     width: 60%;
 img{
    padding: 1em;
 align-items:center;
